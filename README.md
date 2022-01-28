@@ -7,6 +7,10 @@
 ### Games
 <img src="https://i.imgur.com/1tAdOT1.png" width="50"> <img src="https://i.imgur.com/CodREKq.png" width="50"> <img src="https://i.imgur.com/1z0BdNk.jpg" width="50">
 
+### Operating System
+<img src="https://i.imgur.com/CgX6ym9.png" width="50">
+Somebody, buy me mac, plz
+
 ### My contacts & social
 [<img src="https://i.imgur.com/DWJroXT.png" width="50">](https://t.me/zor1s)
 [<img src="https://i.imgur.com/khBvraT.png" width="50">](https://vk.com/zor1s_dev)
