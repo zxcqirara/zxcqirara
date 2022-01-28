@@ -16,6 +16,7 @@
 [<img src="https://i.imgur.com/Et5AJpz.png" width="50">](https://open.spotify.com/user/d6mqvxnjdu15gc8kifkasv079?si=783b54284f5f46bc)
 
 ![](https://img.shields.io/badge/Discord-Zor1s%230001-7289da?style=flat-square)
+[![](https://img.shields.io/badge/Buy%20me%20a%20coffe-Ko--fi-blue?style=flat-square&logo=ko-fi)](https://ko-fi.com/zor1s)
 
 ### Some rating
 
