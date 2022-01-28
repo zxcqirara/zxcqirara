@@ -35,5 +35,5 @@ Somebody, buy me mac, plz
 
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=zor1s&show_icons=true&theme=tokyonight&hide_border=true&locale=ru&custom_title=Оценка%20моего%20профиля&bg_color=30,202020,151515)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zor1s&layout=compact&show_icons=true&theme=tokyonight&hide_border=true&locale=ru&custom_title=Мои%20языки&langs_count=10&bg_color=30,202020,151515)
+![](https://github-readme-stats.vercel.app/api?username=zor1s&show_icons=true&theme=tokyonight&hide_border=true&bg_color=30,202020,151515)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zor1s&layout=compact&show_icons=true&theme=tokyonight&hide_border=true&bg_color=30,202020,151515)
