@@ -1,17 +1,17 @@
 <h1 align="center">I'm <code>ChA0S_f4me</code> aka <code>Zor1s</code></h1>
 <h2 align="center">Kotlin developer <i>&</i> gamer</h2>
 
-### Languages
+## Languages
 <img src="https://i.imgur.com/YrghsTw.png" width="50"> <img src="https://i.imgur.com/qKwwYJj.png" width="50">
 
-### Games
+## Games
 <img src="https://i.imgur.com/1tAdOT1.png" width="50"> <img src="https://i.imgur.com/CodREKq.png" width="50"> <img src="https://i.imgur.com/1z0BdNk.jpg" width="50">
 
-### Operating System
+## Operating System
 <img src="https://i.imgur.com/CgX6ym9.png" width="50">
 Somebody, buy me mac, plz
 
-### My contacts & social
+## My contacts & social
 [<img src="https://i.imgur.com/DWJroXT.png" width="50">](https://t.me/zor1s)
 [<img src="https://i.imgur.com/khBvraT.png" width="50">](https://vk.com/zor1s_dev)
 [<img src="https://i.imgur.com/GdjY8tH.png" width="50">](https://www.youtube.com/channel/UClXEtELHc6OCBdV4yb2UBtA)
@@ -22,7 +22,7 @@ Somebody, buy me mac, plz
 ![](https://img.shields.io/badge/Discord-Zor1s%230001-7289da?style=flat-square)
 [![](https://img.shields.io/badge/Buy%20me%20a%20coffe-Ko--fi-blue?style=flat-square&logo=ko-fi)](https://ko-fi.com/zor1s)
 
-### Some rating
+## Some rating
 
 ![](https://img.shields.io/youtube/channel/subscribers/UClXEtELHc6OCBdV4yb2UBtA?logo=youtube&logoColor=red&style=flat-square)
 
