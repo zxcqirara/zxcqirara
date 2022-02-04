@@ -9,7 +9,7 @@
 
 ## Operating System
 <img src="https://i.imgur.com/CgX6ym9.png" width="50">
-Somebody, buy me mac, plz
+Somebody, buy me mac, plz (link to ko-fi below)
 
 ## My contacts & social
 [<img src="https://i.imgur.com/DWJroXT.png" width="50">](https://t.me/zor1s)
