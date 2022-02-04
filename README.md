@@ -2,13 +2,14 @@
 <h2 align="center">Kotlin developer <i>&</i> gamer</h2>
 
 ## Languages
-<img src="https://i.imgur.com/YrghsTw.png" width="50"> <img src="https://i.imgur.com/qKwwYJj.png" width="50">
+[<img src="https://i.imgur.com/YrghsTw.png" width="50">](https://kotlinlang.org) [<img src="https://i.imgur.com/qKwwYJj.png" width="50">](https://www.typescriptlang.org)
 
 ## Games
-<img src="https://i.imgur.com/1tAdOT1.png" width="50"> <img src="https://i.imgur.com/CodREKq.png" width="50"> <img src="https://i.imgur.com/1z0BdNk.jpg" width="50">
+[<img src="https://i.imgur.com/1tAdOT1.png" width="50">](https://www.minecraft.net) [<img src="https://i.imgur.com/CodREKq.png" width="50">](https://steamcommunity.com/app/4000) [<img src="https://i.imgur.com/1z0BdNk.jpg" width="50">](https://steamcommunity.com/app/730)
 
 ## Operating System
-<img src="https://i.imgur.com/CgX6ym9.png" width="50">
+[<img src="https://i.imgur.com/CgX6ym9.png" width="50">](https://www.microsoft.com/windows/windows-11)
+
 Somebody, buy me mac, plz (link to ko-fi below)
 
 ## My contacts & social
@@ -37,3 +38,8 @@ Somebody, buy me mac, plz (link to ko-fi below)
 
 ![](https://github-readme-stats.vercel.app/api?username=zor1s&show_icons=true&theme=tokyonight&hide_border=true&bg_color=30,202020,151515)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zor1s&layout=compact&show_icons=true&theme=tokyonight&hide_border=true&bg_color=30,202020,151515)
+
+<details>
+  <summary>uwu</summary>
+  Fuck java & python...
+</details>
