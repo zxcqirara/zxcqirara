@@ -31,7 +31,7 @@ Somebody, buy me mac, plz (link to ko-fi below)
 
 ![](https://img.shields.io/reddit/user-karma/combined/cha0s_f4me?logo=reddit&style=flat-square)
 
-![](https://img.shields.io/discord/887053157253906502?label=V_dawo1s&logo=discord&style=flat-square)
+![](https://img.shields.io/discord/945365834396762152?label=FlashTransact&logo=discord&style=flat-square)
 ![](https://img.shields.io/discord/924049497762459728?label=FenceMC&logo=discord&style=flat-square)
 
 ---
