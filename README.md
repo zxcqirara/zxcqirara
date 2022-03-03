@@ -13,15 +13,15 @@
 Somebody, buy me mac, plz (link to ko-fi below)
 
 ## My contacts & social
-[<img src="https://i.imgur.com/DWJroXT.png" width="50">](https://t.me/zor1s)
-[<img src="https://i.imgur.com/khBvraT.png" width="50">](https://vk.com/zor1s_dev)
+[<img src="https://i.imgur.com/DWJroXT.png" width="50">](https://t.me/passive1st)
+[<img src="https://i.imgur.com/khBvraT.png" width="50">](https://vk.com/passive1st)
 [<img src="https://i.imgur.com/GdjY8tH.png" width="50">](https://www.youtube.com/channel/UClXEtELHc6OCBdV4yb2UBtA)
-[<img src="https://i.imgur.com/iiN3qIc.png" width="50">](https://stackoverflow.com/users/14396165/zor1s)
+[<img src="https://i.imgur.com/iiN3qIc.png" width="50">](https://stackoverflow.com/users/14396165/passive1st)
 [<img src="https://i.imgur.com/KtPxVZS.png" width="50">](https://steamcommunity.com/id/cha0s_f4me)
 [<img src="https://i.imgur.com/Et5AJpz.png" width="50">](https://open.spotify.com/user/d6mqvxnjdu15gc8kifkasv079?si=783b54284f5f46bc)
 
-![](https://img.shields.io/badge/Discord-Zor1s%230001-7289da?style=flat-square)
-[![](https://img.shields.io/badge/Buy%20me%20a%20coffe-Ko--fi-blue?style=flat-square&logo=ko-fi)](https://ko-fi.com/zor1s)
+![](https://img.shields.io/badge/Discord-Passive1st%230001-7289da?style=flat-square)
+[![](https://img.shields.io/badge/Buy%20me%20a%20coffe-Ko--fi-blue?style=flat-square&logo=ko-fi)](https://ko-fi.com/passive1st)
 
 ## Some rating
 
