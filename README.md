@@ -27,7 +27,7 @@ Somebody, buy me mac, plz (link to ko-fi below)
 
 ![](https://img.shields.io/youtube/channel/subscribers/UClXEtELHc6OCBdV4yb2UBtA?logo=youtube&logoColor=red&style=flat-square)
 
-![](https://img.shields.io/github/stars/zor1s?logo=github&style=flat-square)
+![](https://img.shields.io/github/stars/passive1st?logo=github&style=flat-square)
 
 ![](https://img.shields.io/reddit/user-karma/combined/cha0s_f4me?logo=reddit&style=flat-square)
 
