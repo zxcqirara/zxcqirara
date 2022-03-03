@@ -36,8 +36,8 @@ Somebody, buy me mac, plz (link to ko-fi below)
 
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=zor1s&show_icons=true&theme=tokyonight&hide_border=true&bg_color=30,202020,151515)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zor1s&layout=compact&show_icons=true&theme=tokyonight&hide_border=true&bg_color=30,202020,151515)
+![](https://github-readme-stats.vercel.app/api?username=passive1st&show_icons=true&theme=tokyonight&hide_border=true&bg_color=30,202020,151515)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=passive1st&layout=compact&show_icons=true&theme=tokyonight&hide_border=true&bg_color=30,202020,151515)
 
 <details>
   <summary>uwu</summary>
