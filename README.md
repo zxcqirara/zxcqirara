@@ -1,4 +1,4 @@
-<h1 align="center">I'm <code>ChA0S_f4me</code> aka <code>Zor1s</code></h1>
+<h1 align="center">I'm <code>ChA0S_f4me</code> aka <code>Zor1s</code> aka <code>Passive1st</code></h1>
 <h2 align="center">Kotlin developer <i>&</i> gamer</h2>
 
 ## Languages
