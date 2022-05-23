@@ -2,7 +2,7 @@
 <h2 align="center">Kotlin developer <i>&</i> gamer</h2>
 
 ## Languages
-[<img src="https://i.imgur.com/YrghsTw.png" width="50">](https://kotlinlang.org) [<img src="https://i.imgur.com/qKwwYJj.png" width="50">](https://www.typescriptlang.org)
+[<img src="https://i.imgur.com/YrghsTw.png" width="50">](https://kotlinlang.org) [<img src="https://i.imgur.com/qKwwYJj.png" width="50">](https://typescriptlang.org)
 
 ## Games
 [<img src="https://i.imgur.com/1tAdOT1.png" width="50">](https://www.minecraft.net) [<img src="https://i.imgur.com/CodREKq.png" width="50">](https://steamcommunity.com/app/4000) [<img src="https://i.imgur.com/1z0BdNk.jpg" width="50">](https://steamcommunity.com/app/730)
