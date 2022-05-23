@@ -13,10 +13,10 @@
 Somebody, buy me mac, plz (link to ko-fi below)
 
 ## My contacts & social
-[<img src="https://i.imgur.com/DWJroXT.png" width="50">](https://t.me/passive1st)
-[<img src="https://i.imgur.com/khBvraT.png" width="50">](https://vk.com/passive1st)
+[<img src="https://i.imgur.com/DWJroXT.png" width="50">](https://t.me/cha0s_f4me)
+[<img src="https://i.imgur.com/khBvraT.png" width="50">](https://vk.com/cha0s_f4me)
 [<img src="https://i.imgur.com/GdjY8tH.png" width="50">](https://www.youtube.com/channel/UClXEtELHc6OCBdV4yb2UBtA)
-[<img src="https://i.imgur.com/iiN3qIc.png" width="50">](https://stackoverflow.com/users/14396165/passive1st)
+[<img src="https://i.imgur.com/iiN3qIc.png" width="50">](https://stackoverflow.com/users/14396165/cha0s_f4me)
 [<img src="https://i.imgur.com/KtPxVZS.png" width="50">](https://steamcommunity.com/id/cha0s_f4me)
 [<img src="https://i.imgur.com/Et5AJpz.png" width="50">](https://open.spotify.com/user/d6mqvxnjdu15gc8kifkasv079?si=783b54284f5f46bc)
 
