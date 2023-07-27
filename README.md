@@ -1,4 +1,4 @@
-<h1 align="center">Hello! I'm <code>ChA0S_f4me</code></h1>
+<h1 align="center">Hello! I'm <code>zxcqirara</code></h1>
 <h2 align="center">Kotlin developer <i>&</i> gamer</h2>
 
 ## Languages
