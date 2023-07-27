@@ -9,6 +9,7 @@
 
 ## Operating System
 [<img src="https://i.imgur.com/CgX6ym9.png" width="50">](https://www.microsoft.com/windows/windows-11)
+[<img src="https://i.imgur.com/p2Knjhj.png" width="50">](https://manjaro.org)
 
 Somebody, buy me mac, plz (link to ko-fi below)
 
