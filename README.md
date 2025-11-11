@@ -1,20 +1,24 @@
 <h1 align="center">Hello! I'm <code>zxcqirara</code></h1>
-<h2 align="center">Kotlin developer <i>&</i> gamer</h2>
+<h2 align="center">Student, developer & gamer</h2>
 
 ## Languages
-[<img src="https://i.imgur.com/YrghsTw.png" width="50">](https://kotlinlang.org) [<img src="https://i.imgur.com/qKwwYJj.png" width="50">](https://typescriptlang.org)
+[<img src="https://i.imgur.com/fUpKH7A.png" width="50">](https://rust-lang.org)
+[<img src="https://i.imgur.com/YrghsTw.png" width="50">](https://kotlinlang.org)
+[<img src="https://i.imgur.com/qKwwYJj.png" width="50">](https://typescriptlang.org)
 
 ## Games
-[<img src="https://i.imgur.com/1tAdOT1.png" width="50">](https://www.minecraft.net) [<img src="https://i.imgur.com/CodREKq.png" width="50">](https://steamcommunity.com/app/4000) [<img src="https://i.imgur.com/1z0BdNk.jpg" width="50">](https://steamcommunity.com/app/730)
+[<img src="https://i.imgur.com/1tAdOT1.png" width="50">](https://www.minecraft.net)
+[<img src="https://i.imgur.com/CodREKq.png" width="50">](https://steamcommunity.com/app/4000)
+[<img src="https://i.imgur.com/o7ZtH17.png" width="50">](https://steamcommunity.com/app/367520)
+[<img src="https://i.imgur.com/1z0BdNk.jpg" width="50">](https://steamcommunity.com/app/730)
 
 ## Operating System
+[<img src="https://i.imgur.com/VohH25Z.png" width="50">](https://www.apple.com/os/macos)
 [<img src="https://i.imgur.com/CgX6ym9.png" width="50">](https://www.microsoft.com/windows/windows-11)
 [<img src="https://i.imgur.com/p2Knjhj.png" width="50">](https://manjaro.org)
 
-Somebody, buy me mac, plz (link to ko-fi below)
-
 ## My contacts & social
-[<img src="https://i.imgur.com/DWJroXT.png" width="50">](https://t.me/zxcqirara)
+[<img src="https://i.imgur.com/DWJroXT.png" width="50">](https://t.me/qirara)
 [<img src="https://i.imgur.com/iiN3qIc.png" width="50">](https://stackoverflow.com/users/14396165/zxcqirara)
 [<img src="https://i.imgur.com/KtPxVZS.png" width="50">](https://steamcommunity.com/id/zxcqirara)
 [<img src="https://i.imgur.com/Et5AJpz.png" width="50">](https://open.spotify.com/user/d6mqvxnjdu15gc8kifkasv079?si=783b54284f5f46bc)
@@ -35,10 +39,5 @@ Somebody, buy me mac, plz (link to ko-fi below)
 
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=zxcqirara&show_icons=true&theme=tokyonight&hide_border=true&bg_color=30,202020,151515)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zxcqirara&layout=compact&show_icons=true&theme=tokyonight&hide_border=true&bg_color=30,202020,151515)
-
-<details>
-  <summary>uwu</summary>
-  Fuck java & python...
-</details>
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=zxcqirara&show_icons=true&theme=tokyonight&hide_border=true&card_width=500&bg_color=30,202020,151515">
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxcqirara&layout=compact&show_icons=true&theme=tokyonight&hide_border=true&card_width=500&bg_color=30,202020,151515">
