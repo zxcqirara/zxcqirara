@@ -34,8 +34,7 @@
 
 ![](https://img.shields.io/reddit/user-karma/combined/zxcqirara?logo=reddit&style=flat-square)
 
-![](https://img.shields.io/discord/945365834396762152?label=FlashTransact&logo=discord&style=flat-square)
-![](https://img.shields.io/discord/924049497762459728?label=FenceMC&logo=discord&style=flat-square)
+[![](https://img.shields.io/discord/1062062559462699069?label=Game%20Squad&logo=discord&style=flat-square)](https://discord.gg/t5Ddh5tE9C)
 
 ---
 
